@@ -1,0 +1,14 @@
+C:\Users\Junaid Ali\source\repos\Lab4Task\Lab4Task\bin\Debug\net6.0\Lab4Task.exe
+C:\Users\Junaid Ali\source\repos\Lab4Task\Lab4Task\bin\Debug\net6.0\Lab4Task.deps.json
+C:\Users\Junaid Ali\source\repos\Lab4Task\Lab4Task\bin\Debug\net6.0\Lab4Task.runtimeconfig.json
+C:\Users\Junaid Ali\source\repos\Lab4Task\Lab4Task\bin\Debug\net6.0\Lab4Task.dll
+C:\Users\Junaid Ali\source\repos\Lab4Task\Lab4Task\bin\Debug\net6.0\Lab4Task.pdb
+C:\Users\Junaid Ali\source\repos\Lab4Task\Lab4Task\obj\Debug\net6.0\Lab4Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junaid Ali\source\repos\Lab4Task\Lab4Task\obj\Debug\net6.0\Lab4Task.AssemblyInfoInputs.cache
+C:\Users\Junaid Ali\source\repos\Lab4Task\Lab4Task\obj\Debug\net6.0\Lab4Task.AssemblyInfo.cs
+C:\Users\Junaid Ali\source\repos\Lab4Task\Lab4Task\obj\Debug\net6.0\Lab4Task.csproj.CoreCompileInputs.cache
+C:\Users\Junaid Ali\source\repos\Lab4Task\Lab4Task\obj\Debug\net6.0\Lab4Task.dll
+C:\Users\Junaid Ali\source\repos\Lab4Task\Lab4Task\obj\Debug\net6.0\refint\Lab4Task.dll
+C:\Users\Junaid Ali\source\repos\Lab4Task\Lab4Task\obj\Debug\net6.0\Lab4Task.pdb
+C:\Users\Junaid Ali\source\repos\Lab4Task\Lab4Task\obj\Debug\net6.0\Lab4Task.genruntimeconfig.cache
+C:\Users\Junaid Ali\source\repos\Lab4Task\Lab4Task\obj\Debug\net6.0\ref\Lab4Task.dll
